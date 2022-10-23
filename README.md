@@ -1,4 +1,4 @@
-# Formulario em ReactNative como validacao.
+# Formulario em ReactJS com validação de campos.
 Esse é um formulario simples em reactjs e hooks. 
 Verificação de campos não preenchidos 
 Verificação de formato de campo preenchido (e-mail com regex) 
