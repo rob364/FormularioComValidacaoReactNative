@@ -14,7 +14,7 @@ Controle de comportamento na submissão do form
 
 ``` bash
 # clonar repositorio
-git clone
+git clone https://github.com/rob364/FormularioComValidacaoReactNative
 
 # entrar na pasta do projeto
 
